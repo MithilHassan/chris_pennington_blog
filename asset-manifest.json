@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/chris_pennington_blog/static/css/main.780ab344.css",
+    "main.js": "/chris_pennington_blog/static/js/main.dea15cbf.js",
+    "static/js/787.97163d7c.chunk.js": "/chris_pennington_blog/static/js/787.97163d7c.chunk.js",
+    "static/media/monego bold nerd font.otf": "/chris_pennington_blog/static/media/monego bold nerd font.2c352cbca6e5cc5ab571.otf",
+    "static/media/monego regular nerd font.otf": "/chris_pennington_blog/static/media/monego regular nerd font.3adb78103af29898d60c.otf",
+    "static/media/chicagoflf.ttf": "/chris_pennington_blog/static/media/chicagoflf.155ecfce03714f348552.ttf",
+    "static/media/cp.svg": "/chris_pennington_blog/static/media/cp.3f26fc21aff5284f54b65477b3dbab4e.svg",
+    "static/media/video.svg": "/chris_pennington_blog/static/media/video.ad52087c08eb00cc9d29493138149448.svg",
+    "static/media/pattern-3.svg": "/chris_pennington_blog/static/media/pattern-3.6c0e9ef0db00fbf02592c57c2febb75b.svg",
+    "static/media/pattern-7.svg": "/chris_pennington_blog/static/media/pattern-7.52e442fa266738132b1cfb0a87505f65.svg",
+    "static/media/pattern-2.svg": "/chris_pennington_blog/static/media/pattern-2.cbb84a8a42cf2a20549e12986b9664f9.svg",
+    "index.html": "/chris_pennington_blog/index.html",
+    "static/media/pattern-6.svg": "/chris_pennington_blog/static/media/pattern-6.eb0c72415709eeb0c8bde75974fac454.svg",
+    "static/media/pattern-5.svg": "/chris_pennington_blog/static/media/pattern-5.582b2ea1c8e7b267469d65c8bfd653ac.svg",
+    "static/media/pattern-1.svg": "/chris_pennington_blog/static/media/pattern-1.163625a0eda4b40afea889c7990759d7.svg",
+    "static/media/pattern-10.svg": "/chris_pennington_blog/static/media/pattern-10.8964d5a9621c6bac508d1f1027ce3ee3.svg",
+    "static/media/pattern-11.svg": "/chris_pennington_blog/static/media/pattern-11.e13038705bd2bda76b8da156e5ac9f1e.svg",
+    "static/media/pattern-8.svg": "/chris_pennington_blog/static/media/pattern-8.6f17063554c175075eb4fa40dcb457d9.svg",
+    "static/media/pattern-4.svg": "/chris_pennington_blog/static/media/pattern-4.32e106cd6dacc5dcb82a2e448f3327b4.svg",
+    "static/media/pattern-9.svg": "/chris_pennington_blog/static/media/pattern-9.53647f91cc652ad340d739fc9e8da0c1.svg",
+    "main.780ab344.css.map": "/chris_pennington_blog/static/css/main.780ab344.css.map",
+    "main.dea15cbf.js.map": "/chris_pennington_blog/static/js/main.dea15cbf.js.map",
+    "787.97163d7c.chunk.js.map": "/chris_pennington_blog/static/js/787.97163d7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.780ab344.css",
+    "static/js/main.dea15cbf.js"
+  ]
+}
